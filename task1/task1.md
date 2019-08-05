@@ -43,4 +43,6 @@
 
 ......
 
+### 异常值识别 [https://www.cnblogs.com/bonelee/p/9728653.html](https://www.cnblogs.com/bonelee/p/9728653.html)
+
 ### 你能想到和借鉴的数据分析处理
